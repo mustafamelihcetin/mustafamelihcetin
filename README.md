@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate **in studies**
 
-- 📫 How to reach me **melih.cetin@outlook.com.tr**
+- 📫 How to reach me **mustafamelihcetin@outlook.com**
 
 - 📄 Know about my experiences [https://l24.im/YZA](https://l24.im/YZA)
 
