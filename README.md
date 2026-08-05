@@ -51,6 +51,6 @@ Direct contact: **mustafamelihcetin@outlook.com**
 ### Open Source Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafamelihcetin&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafamelihcetin&theme=dark&background=0D1117&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafamelihcetin&show_icons=true&theme=github_dark&hide_border=true&v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafamelihcetin&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
