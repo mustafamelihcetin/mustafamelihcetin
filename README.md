@@ -1,55 +1,52 @@
 <div align="center">
-  <h1>Melih.</h1>
-  <h3>Software Engineer | AI-Assisted Development | React.js & Python</h3>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=mustafamelihcetin&label=Profile%20Views&color=282c34&style=for-the-badge" alt="Profile views" />
-  </p>
+
+# Melih Çetin
+
+**Computer Engineer · C# / .NET**
+
+Desktop and mobile software with fast, clear interfaces — and the data engines behind them.
+
+[![malthen.dev](https://img.shields.io/badge/malthen.dev-18181B?style=for-the-badge)](https://malthen.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/melihctn)
+
 </div>
 
----
+I build software people use to make decisions: a quant terminal that scans Borsa Istanbul stocks, a planner that's live on the App Store, a calculator that shows what an LLM workload really costs.
 
-### Profile
+My core is **C# and .NET**: WPF (MVVM), .NET MAUI and ASP.NET Core. I use Python for data and machine learning, and React / Next.js for the web. I care about clean architecture and async code that keeps the interface responsive under load. Where I'm headed: **operational interfaces for aerospace and defense.**
 
-Computer Engineering graduate transforming ideas into living, efficient, and scalable software projects through an agile and solution-oriented mindset. I specialize in bridging artificial intelligence with modern web technologies to solve real-world problems and take ownership of end-to-end product development processes.
+## Featured work
 
-Direct contact: **mustafamelihcetin@outlook.com**
+#### [TAZQ](https://tazqapp.com) — goal & exam planner, live on the [App Store](https://apps.apple.com/app/tazq/id6748417336)
+Enter a target date and TAZQ plans every day until then: exam prep (YKS / KPSS), quitting smoking, saving, fitness, a thesis. Natural-language input, habit tracking and end-to-end AES encryption. Architected end to end and shipped to production.
 
----
+`React Native` `TypeScript` `.NET 8` `ASP.NET Core` `PostgreSQL` `Docker` · [Source](https://github.com/mustafamelihcetin/Tazq-App)
 
-### Engineering Highlights
+#### [PivotRadar](https://pivot-radar.com) — quant analysis terminal for Borsa Istanbul
+A concurrent scanning engine that combines rule-based signals with machine-learning scores, processing ~4,200 data points per second. Built-in back-testing lets investors check a strategy's risk and return before they commit to it.
 
-| Project | Architecture & Impact | Tech Stack |
-| :--- | :--- | :--- |
-| **[OPTERA](https://ioptera.com)** | Engineered a client-side analytics engine to optimize LLM API costs. Implemented a "Zero-Knowledge" architecture using WebAssembly to execute complex computations directly in the browser, ensuring 100% data privacy. | `Next.js 15`, `WebAssembly`, `API Integration` |
-| **[PivotRadar](https://pivot-radar.com/)** | Designed a concurrent data scanning engine integrating rule-based algorithms and machine learning models for advanced stock market analysis. Features built-in back-testing modules that provide raw ML scoring to help investors optimize risk-return profiles. | `Python`, `Machine Learning`, `Data Visualization` |
-| **[TAZQ](https://tazqapp.com)** | Developed an NLP-supported, cross-platform productivity application featuring end-to-end AES encryption and gamified processes. Architected the entire system from the ground up and successfully launched on the App Store. | `React Native`, `ASP.NET Core`, `PostgreSQL` |
-| **Opaq** | Initiated the foundational setup and interactive layout design for a secure, offline-first mobile vault and sprint manager application. | `Expo`, `TypeScript` |
-| **Nöbet & Mevzi Takip** | Developed an image-processing-based tracking module for military shift operations. Contributed to digitizing and automating manual tracking workflows to significantly increase field efficiency. | `React.js`, `Python`, `OpenCV` |
+`Python` `FastAPI` `Machine Learning` `React` `PostgreSQL` `Docker` · [Source](https://github.com/mustafamelihcetin/pivotradar-public)
 
----
+#### [iOPTERA](https://ioptera.com) — what an LLM workload really costs
+Compares API pricing across OpenAI, Anthropic, Google, xAI and DeepSeek, checked against each provider's own pricing page, and accounts for tokenizer differences between models. Calculations run client-side in WebAssembly, so prompts never leave the browser.
 
-### Technical Core
+`Next.js 15` `WebAssembly`
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,python,cs,dotnet,js,ts,cpp,mysql,postgres,aws,docker,git" alt="Technical Core" />
-  </a>
-</p>
+#### [Başvuru Takip](https://github.com/mustafamelihcetin/BasvuruTakipWpf) — job-application tracker for Windows
+A WPF (MVVM) desktop app: one folder per application, an offline parser that pulls company, role and deadline out of a pasted job post, an urgency-sorted list with follow-up reminders, and one-click Word → PDF through COM automation on a background STA thread.
 
----
+`C#` `.NET 8` `WPF` `MVVM`
 
-### Professional Networking
+#### Guard-duty & position tracking — military service
+Part of a team digitizing duty operations during my service. I built the image-processing module that replaced manual shift and position tracking in the field.
 
-<p align="center">
-  <a href="https://linkedin.com/in/melihctn" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+`Python` `OpenCV` `React`
 
----
+## Toolbox
 
-### Open Source Metrics
+<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,python,ts,react,nextjs,postgres,docker,aws,opencv,git" alt="C#, .NET, C++, Python, TypeScript, React, Next.js, PostgreSQL, Docker, AWS, OpenCV, Git" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafamelihcetin&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+## Background
+
+- **B.Sc. Computer Engineering**, Istanbul Kültür University (English-medium), 2023
+- **AI Trainer, Outlier AI** (2024): authored and evaluated training data to improve the accuracy of Turkish LLMs
