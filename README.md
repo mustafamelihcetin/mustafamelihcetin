@@ -2,7 +2,7 @@
 
 # Melih Çetin
 
-**Software Engineer**
+**Computer Engineer**
 
 I turn ideas into finished products — on the web, on mobile and on the desktop.
 
