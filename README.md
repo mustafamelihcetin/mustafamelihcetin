@@ -2,18 +2,18 @@
 
 # Melih Çetin
 
-**Computer Engineer · C# / .NET**
+**Software Engineer**
 
-Desktop and mobile software with fast, clear interfaces — and the data engines behind them.
+I turn ideas into finished products — on the web, on mobile and on the desktop.
 
 [![malthen.dev](https://img.shields.io/badge/malthen.dev-18181B?style=for-the-badge)](https://malthen.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/melihctn)
 
 </div>
 
-I build software people use to make decisions: a quant terminal that scans Borsa Istanbul stocks, a planner that's live on the App Store, a calculator that shows what an LLM workload really costs.
+Three of my products are live today: a planner on the App Store, a stock-analysis terminal and a cost calculator for LLM APIs. I work across the whole stack, from interface to backend to data, and I aim for software that feels fast, reads clearly and keeps working long after release.
 
-My core is **C# and .NET**: WPF (MVVM), .NET MAUI and ASP.NET Core. I use Python for data and machine learning, and React / Next.js for the web. I care about clean architecture and async code that keeps the interface responsive under load. Where I'm headed: **operational interfaces for aerospace and defense.**
+My home base is **C# and .NET**, with Python for data and machine learning and React / Next.js for the web.
 
 ## Featured work
 
