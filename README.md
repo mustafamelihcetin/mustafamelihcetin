@@ -77,28 +77,31 @@ Compares API pricing across OpenAI, Anthropic, Google, xAI and DeepSeek, checked
 </td>
 <td width="50%" valign="top">
 
-### 🌙 [Dusk](https://github.com/mustafamelihcetin/Dusk)
-**A calm, safe shutdown timer for Windows** · open source
+### 🪐 [Malthen](https://malthen.dev)
+**My software studio, and a space simulator**
 
-Drag the dial, walk away. Never schedules ahead, never force-closes unsaved work by default, and its warning never steals your keyboard. 360 KB, Fluent design, English and Turkish.
+The studio behind TAZQ, PivotRadar and iOPTERA. Its [Laboratory](https://malthen.dev/en/laboratory) runs a real-time N-body simulator in the browser: drop stars, planets and black holes, then watch orbits, collisions and gravitational lensing. A 4th-order symplectic integrator with a 1PN relativistic correction.
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-0078D4?style=flat-square&logo=windows&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
+![Physics](https://img.shields.io/badge/N--body_physics-161B48?style=flat-square)
 
-[Download →](https://github.com/mustafamelihcetin/Dusk/releases/latest)
+[Try the simulator →](https://malthen.dev/en/laboratory)
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>📂 More: Başvuru Takip, a job-application tracker for Windows</b></summary>
+<summary><b>📂 More: Dusk and Başvuru Takip, two Windows apps</b></summary>
 <br>
 
-One folder per application. An offline parser pulls the company, role and deadline out of a pasted job post. Applications are sorted by urgency with follow-up reminders, and Word files become PDFs in one click through COM automation.
+**🌙 [Dusk](https://github.com/mustafamelihcetin/Dusk)**, a calm, safe shutdown timer. Drag the dial, walk away. It never schedules ahead, never force-closes unsaved work by default, and its warning never steals your keyboard. Open source, English and Turkish.
 
-`C#` `.NET 8` `WPF` `MVVM` · [Source →](https://github.com/mustafamelihcetin/BasvuruTakipWpf)
+`C#` `.NET 10` `WPF` · [Download →](https://github.com/mustafamelihcetin/Dusk/releases/latest)
+
+**📂 [Başvuru Takip](https://github.com/mustafamelihcetin/BasvuruTakipWpf)**, a job-application tracker. One folder per application. An offline parser pulls the company, role and deadline out of a pasted job post. Applications are sorted by urgency with follow-up reminders, and Word files become PDFs in one click through COM automation.
+
+`C#` `.NET 8` `WPF` `MVVM`
 
 </details>
 
