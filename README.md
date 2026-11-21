@@ -124,11 +124,11 @@ The studio behind TAZQ, PivotRadar and iOPTERA. Its [Laboratory](https://malthen
 
 <br>
 
-## 🐍 Watch it eat my commits
+## 🏙️ My commits, as a city
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mustafamelihcetin/mustafamelihcetin/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/mustafamelihcetin/mustafamelihcetin/output/snake.svg" width="100%" alt="A snake eating my contribution graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mustafamelihcetin/mustafamelihcetin/output/profile-night-rainbow.svg" />
+  <img src="https://raw.githubusercontent.com/mustafamelihcetin/mustafamelihcetin/output/profile-season-animate.svg" width="100%" alt="My contribution calendar drawn as a 3D city; taller towers mean more commits" />
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:161B48,100:4E58CC&section=footer" width="100%" alt="" />
