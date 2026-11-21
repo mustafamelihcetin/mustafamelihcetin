@@ -115,20 +115,23 @@ The studio behind TAZQ, PivotRadar and iOPTERA. Its [Laboratory](https://malthen
 
 <br>
 
-## 📊 GitHub in numbers
+## ✨ At a glance
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mustafamelihcetin&show_icons=true&hide_border=true&count_private=true&theme=transparent&title_color=6C78F0&icon_color=6C78F0&text_color=8B949E" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafamelihcetin&layout=compact&hide_border=true&theme=transparent&title_color=6C78F0&text_color=8B949E&langs_count=6" alt="Top languages" />
-</p>
+<table>
+<tr>
+<td align="center" width="25%"><h1>🚀 3</h1><b>products in production</b></td>
+<td align="center" width="25%"><h1>📱 iOS</h1><b>app live on the App Store</b></td>
+<td align="center" width="25%"><h1>⚡ 4,200</h1><b>data points per second</b><br><sub>PivotRadar's scanner</sub></td>
+<td align="center" width="25%"><h1>🪐 N-body</h1><b>physics in your browser</b><br><sub>Malthen Laboratory</sub></td>
+</tr>
+</table>
 
 <br>
 
-## 🏙️ My commits, as a city
+## 🪐 A tiny solar system
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mustafamelihcetin/mustafamelihcetin/output/profile-night-rainbow.svg" />
-  <img src="https://raw.githubusercontent.com/mustafamelihcetin/mustafamelihcetin/output/profile-season-animate.svg" width="100%" alt="My contribution calendar drawn as a 3D city; taller towers mean more commits" />
-</picture>
+<a href="https://malthen.dev/en/laboratory">
+  <img src="assets/orbits.svg" width="100%" alt="An animated little solar system. Click to open the real space simulator on malthen.dev" />
+</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:161B48,100:4E58CC&section=footer" width="100%" alt="" />
